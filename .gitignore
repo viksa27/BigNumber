@@ -1,0 +1,5 @@
+ignore
+src/archive.cpp
+src/x64
+src/BigNumber.vcxproj.user
+desktop.ini
